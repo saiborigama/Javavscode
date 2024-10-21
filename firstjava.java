@@ -8,5 +8,6 @@ public class firstjava {
     System.out.print("wellcome1");    
     System.out.println("borigama sai");
     System.out.println("borigama sai1");
+    System.out.println("hiii");
     }
 }
